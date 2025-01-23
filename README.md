@@ -12,7 +12,7 @@ This script will help you to fuck your FiberHome HG2201T gracefully and get all 
 3. run
 ```bash
 git clone https://github.com/FunnyShadow/Fuck-FiberHome-HG2201T.git
-python install -r requirements.txt
+pip install -r requirement.txt
 python decode.py
 ```
 
